@@ -8,5 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.47.16",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
 }
